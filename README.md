@@ -1,5 +1,7 @@
 # App Builder
 
+> Unofficial community project. Not affiliated with, endorsed by or sponsored by Anthropic. "Claude" and "Claude Code" are trademarks of Anthropic, PBC.
+
 Claude Code skills that take a mobile app from a vague idea to a build spec you can hand
 straight to Claude and start coding. Solo-buildable, no dev team.
 
